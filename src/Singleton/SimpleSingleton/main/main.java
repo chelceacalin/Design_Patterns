@@ -8,7 +8,10 @@ import java.util.List;
 
 public class main {
     public static void main(String[] args) {
-
+/*
+*  Vrem sa gestionam studentii din cadrul unei facultati. Trebuie sa ne asiguram ca toti studentii apeleaza
+*  la acelasi secretariat pentru rezolvarea problemelor
+* */
         List< Object> list=new ArrayList<>();
         Secretariat s1=Secretariat.getInstanta(5,10);
         Secretariat s2=Secretariat.getInstanta(6,5);
