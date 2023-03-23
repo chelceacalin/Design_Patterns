@@ -33,10 +33,32 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Calin/Desktop/CTS/DesignPatterns/DesignPatterns/src/Factory/factoryMethod"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Factory.simpleFactory.main.main">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Calin\Desktop\CTS\DesignPatterns\DesignPatterns\src\Factory\factoryMethod" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Factory.factoryMethod.classes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Factory.factoryMethod.main.main">
+    <configuration name="Factory.factoryMethod.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.factoryMethod.main.main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Factory.factoryMethod.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Factory.simpleFactory.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factory.simpleFactory.main.main" />
       <module name="DesignPatterns" />
@@ -78,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factory.factoryMethod.main.main" />
         <item itemvalue="Application.Factory.simpleFactory.main.main" />
         <item itemvalue="Application.Singleton.SingletonRegistry.main.main" />
         <item itemvalue="Application.main" />
