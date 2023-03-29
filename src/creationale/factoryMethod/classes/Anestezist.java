@@ -1,4 +1,4 @@
-package creationale.Factory.factoryMethod.classes;
+package creationale.factoryMethod.classes;
 
 public class Anestezist extends PersonalSpital {
 

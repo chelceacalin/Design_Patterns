@@ -1,8 +1,8 @@
-package creationale.Factory.factoryMethod.classes;
+package creationale.factoryMethod.classes;
 
-public class Asistent extends PersonalSpital {
+public class Brancardier extends PersonalSpital {
 
-    public Asistent(String nume){ super(nume); }
+    public Brancardier(String nume){ super(nume); }
 
     @Override
     public void afiseazaDescriere() {

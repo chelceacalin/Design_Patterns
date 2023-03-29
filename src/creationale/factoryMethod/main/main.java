@@ -1,7 +1,7 @@
-package creationale.Factory.factoryMethod.main;
+package creationale.factoryMethod.main;
 
-import creationale.Factory.factoryMethod.classes.Asistent;
-import creationale.Factory.factoryMethod.classes.FactoryAsistent;
+import creationale.factoryMethod.classes.Asistent;
+import creationale.factoryMethod.classes.FactoryAsistent;
 
 public class main {
     public static void main(String[] args) {

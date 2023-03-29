@@ -1,4 +1,4 @@
-package creationale.Factory.factoryMethod.classes;
+package creationale.factoryMethod.classes;
 
 public abstract class PersonalSpital {
     private String name;
