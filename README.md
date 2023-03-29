@@ -4,6 +4,6 @@ All GOF Important Design Patterns
 So far, I've covered:
 
 <pre>
--> Singleton Simple
--> Singleton Repository
+-> creationale.Singleton Simple
+-> creationale.Singleton Repository
 </pre>

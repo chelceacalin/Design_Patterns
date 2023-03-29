@@ -29,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Calin/Desktop/CTS/DesignPatterns/DesignPatterns/src/Factory/factoryMethod"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Calin/Desktop/CTS/DesignPatterns/DesignPatterns/src/Factory/factoryMethod&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Calin\Desktop\CTS\DesignPatterns\DesignPatterns\src\Factory\factoryMethod" />
@@ -45,13 +45,13 @@
       <recent name="Factory.factoryMethod.classes" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Factory.factoryMethod.main.main">
-    <configuration name="Factory.factoryMethod.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factory.factoryMethod.main.main" />
+  <component name="RunManager" selected="Application.creationale.Factory.factoryMethod.main.main">
+    <configuration name="creationale.Factory.factoryMethod.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creationale.Factory.factoryMethod.main.main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Factory.factoryMethod.main.*" />
+          <option name="PATTERN" value="creationale.Factory.factoryMethod.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factory.simpleFactory.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factory.simpleFactory.main.main" />
+    <configuration name="creationale.Factory.simpleFactory.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creationale.Factory.simpleFactory.main.main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Factory.simpleFactory.main.*" />
+          <option name="PATTERN" value="creationale.Factory.simpleFactory.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton.SingletonRegistry.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.SingletonRegistry.main.main" />
+    <configuration name="creationale.Singleton.SimpleSingleton.main.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creationale.Singleton.SimpleSingleton.main.main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.SingletonRegistry.main.*" />
+          <option name="PATTERN" value="creationale.Singleton.SimpleSingleton.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +86,11 @@
       </method>
     </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.SimpleSingleton.main.main" />
+      <option name="MAIN_CLASS_NAME" value="creationale.Singleton.SingletonRegistry.main.main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.SimpleSingleton.main.*" />
+          <option name="PATTERN" value="creationale.Singleton.SingletonRegistry.main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,10 +100,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Factory.factoryMethod.main.main" />
-        <item itemvalue="Application.Factory.simpleFactory.main.main" />
+        <item itemvalue="Application.creationale.Factory.factoryMethod.main.main" />
+        <item itemvalue="Application.creationale.Factory.simpleFactory.main.main" />
         <item itemvalue="Application.Singleton.SingletonRegistry.main.main" />
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.creationale.Singleton.SimpleSingleton.main.main" />
       </list>
     </recent_temporary>
   </component>
