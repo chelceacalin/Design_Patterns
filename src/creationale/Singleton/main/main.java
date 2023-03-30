@@ -1,7 +1,7 @@
-package creationale.Singleton.SimpleSingleton.main;
+package creationale.Singleton.main;
 
-import creationale.Singleton.SimpleSingleton.classes.BazaDeDate;
-import creationale.Singleton.SimpleSingleton.classes.Secretariat;
+import creationale.Singleton.classes.BazaDeDate;
+import creationale.Singleton.classes.Secretariat;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package creationale.Singleton.SingletonRegistry.classes;
+package creationale.SingletonRegistry.classes;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

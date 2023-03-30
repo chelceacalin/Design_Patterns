@@ -1,6 +1,7 @@
-package creationale.Singleton.SingletonRegistry.main;
+package creationale.SingletonRegistry.main;
 
-import creationale.Singleton.SingletonRegistry.classes.InstitutiePublica;
+
+import creationale.SingletonRegistry.classes.InstitutiePublica;
 
 public class main {
     public static void main(String[] args) {

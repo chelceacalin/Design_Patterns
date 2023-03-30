@@ -1,4 +1,4 @@
-package creationale.Singleton.SimpleSingleton.classes;
+package creationale.Singleton.classes;
 
 public class Secretariat {
     private int numarBirouri;

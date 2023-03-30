@@ -3,29 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="d081890f-1eb6-42fe-bb96-25893964bacd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/Anestezist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/Anestezist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/Asistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/Asistent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/Brancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/Brancardier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/FactoryAsistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/FactoryAsistent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/FactoryBrancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/FactoryBrancardier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/FactoryMedic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/FactoryMedic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/Medic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/Medic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/classes/PersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/classes/PersonalSpital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/factoryMethod/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/factoryMethod/main/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/classes/Anestezist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/classes/Anestezist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/classes/Asistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/classes/Asistent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/classes/Brancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/classes/Brancardier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/classes/Medic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/classes/Medic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/classes/PersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/classes/PersonalSpital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/classes/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/classes/SimpleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/classes/TipPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/classes/TipPersonal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory/simpleFactory/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Factory/simpleFactory/main/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/SimpleSingleton/classes/BazaDeDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/SimpleSingleton/classes/BazaDeDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/SimpleSingleton/classes/Secretariat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/SimpleSingleton/classes/Secretariat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/SimpleSingleton/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/SimpleSingleton/main/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/SingletonRegistry/classes/InstitutiePublica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/SingletonRegistry/classes/InstitutiePublica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton/SingletonRegistry/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/SingletonRegistry/main/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/Singleton/classes/BazaDeDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/classes/BazaDeDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/Singleton/classes/Secretariat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/classes/Secretariat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/Singleton/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/Singleton/main/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/SingletonRegistry/classes/InstitutiePublica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/SingletonRegistry/classes/InstitutiePublica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/SingletonRegistry/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/SingletonRegistry/main/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Anestezist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Anestezist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Asistent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Asistent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Brancardier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Brancardier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Medic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/Medic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/PersonalSpital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/PersonalSpital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/TipPersonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/classes/TipPersonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creationale/simpleFactory/main/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/creationale/simpleFactory/main/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Calin/Desktop/CTS/DesignPatterns/DesignPatterns"
+    "last_opened_file_path": "C:/Users/Calin/Desktop/Learning/untitled1"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -125,7 +115,6 @@
       <list>
         <item itemvalue="Application.creationale.factoryMethod.main.main" />
         <item itemvalue="Application.creationale.Factory.simpleFactory.main.main" />
-        <item itemvalue="Application.Singleton.SingletonRegistry.main.main" />
         <item itemvalue="Application.creationale.Singleton.SimpleSingleton.main.main" />
       </list>
     </recent_temporary>

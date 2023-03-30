@@ -1,6 +1,6 @@
-package creationale.Factory.simpleFactory.main;
+package creationale.simpleFactory.main;
 
-import creationale.Factory.simpleFactory.classes.*;
+import creationale.simpleFactory.classes.*;
 
 import java.util.ArrayList;
 import java.util.List;

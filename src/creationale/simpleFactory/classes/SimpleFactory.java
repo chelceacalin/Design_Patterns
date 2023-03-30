@@ -1,4 +1,4 @@
-package creationale.Factory.simpleFactory.classes;
+package creationale.simpleFactory.classes;
 
 public class SimpleFactory {
     public PersonalSpital createPersonal(TipPersonal tipPersonal,String ...args){
