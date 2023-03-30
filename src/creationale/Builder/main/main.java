@@ -16,5 +16,7 @@ public class main {
 
         System.out.println(c1.toString());
         System.out.println(c2.toString());
+        ContBancar c3=builder.setNumeClient("ContNou").setPeCard(true).setInternetBanking(true).build();
+        System.out.println(c3.toString());
     }
 }

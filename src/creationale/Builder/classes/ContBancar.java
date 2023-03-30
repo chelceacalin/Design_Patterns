@@ -6,7 +6,7 @@ public class ContBancar {
     private boolean internetBanking;
     private boolean primesteSalariu;
 
-    public ContBancar(String numeClient, boolean peCard, boolean internetBanking, boolean primesteSalariu) {
+    protected ContBancar(String numeClient, boolean peCard, boolean internetBanking, boolean primesteSalariu) {
         this.numeClient = numeClient;
         this.peCard = peCard;
         this.internetBanking = internetBanking;
