@@ -1,0 +1,16 @@
+Design patternul Builder il folosim atunci cand obiectele trebuie create in etape, stiind anumite valori default pentru
+unele dintre campuri si astfel separam procesul de constructie al acestuia.
+
+ Atribute:
+ - O clasa concreta normala
+ - O clasa concreta builder care sa compune clasa concreta si sa aiba constructor fara parametrii unde initialieaza
+ un obiect cu atributele default
+ - Setteri care sa foloseasca acel obiect si settterii sa ii seteze atributele si sa returneze this ca sa putem adauga si alti setteri peste
+ - Metoda build care sa returneze obiectul concret
+ - Interfata care sa anunte metoda build
+
+ Exemplu:
+   Atunci când un client face o rezervare poate alege una din următoarele opțiuni: așezare la geam,
+   scaune ergonomice, decorarea mesei, muzica ambientala personalizata, gen muzica. În cazul în
+   care clientul nu specifică vreun element dintre acestea, este setat pe false. Să se implementeze
+   modulul care permite crearea de obiecte de tip rezervare cu aceste opțiuni extra.
