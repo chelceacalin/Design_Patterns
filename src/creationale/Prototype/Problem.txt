@@ -1,0 +1,13 @@
+Design patternul Prototype este folosit atunci cand crearea de obiecte noi consuma mult spatiu si dorim sa cream obiecte noi
+fara sa mai apelam constructorul.
+
+
+ Atribute:
+ - O interfata care defineste metoda clone si returneaza un obiect de tipul clasei concrete
+ - In clasa concreta implementam interfata si facem o copie asemenea Cloneable
+ - Oricine a folosit Cloneable a folosit Prototype fara sa isi dea seama
+
+ Exemplu:
+   Restaurantul dorește să implementeze un modul în cadrul aplicației, astfel încât dacă un client a
+   mai fost la restaurant și revine pentru a fi realiza o rezervare aici să nu fie necesară reconstruirea
+   unui cont respectivului client, deoarece prin construire clientului durează foarte mult.

@@ -1,0 +1,13 @@
+Design patternul Factory Method il folosim cand vrem sa avem mai multe obiecte dintr-o anumite familie de obiecte,
+dar sa pastram principiul SOLID open-closed.
+
+ Atribute:
+ - O clasa de tip abstract din care le extindem pe cele concrete
+ - Cate o clasa factory specializata pentru fiecare tip concret care sa returneze acel tip
+ - Respecta open-closed, dar in main trebuie create obiecte de tipul fiecarei factory
+
+ Exemplu:
+   În cadrul aplicației personalul spitalului este de mai multe tipuri: Brancardier, Asistent, Medic.
+   Să se implementeze modulul care pune la dispoziției crearea de obiecte din familia obiectelor
+   PersonalSpital. Modulul trebuie realizat, astfel încât pentru adăugări de noi tipuri de personal să
+   nu fie necesare modificări în codul existent

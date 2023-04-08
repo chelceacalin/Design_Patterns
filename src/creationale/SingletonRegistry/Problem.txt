@@ -1,0 +1,12 @@
+Design patternul singleton registry il folosim cand vrem sa avem mai multe clase unice, fiecare trebuind sa aiba doar o instanta.
+
+
+ Atribute:
+ - Constructor privat
+ - Instanta statica privata de tip HashMap<Nume,NumeClasa> map=new HashMap();
+ - Functie statica publica care returneza aceeasi instanta NumeClasa de fiecare data
+
+ Exemplu:
+   Un exemplu bun reprezinta institutiile din Romania.
+   Desi ele sunt unice in sine, exemplu ANAF, Casa de conturi etc, ele sunt mai multe
+   Astfel avem de aface cu mai multe obiecte de tip singleton

@@ -1,0 +1,12 @@
+Design patternul Simple Factory il folosim cand vrem sa avem mai multe obiecte dintr-o anumite familie de obiecte.
+
+
+ Atribute:
+ - O clasa de tip abstract din care le extindem pe cele concrete si un enum care sa aiba numele tipurilor concrete
+ - O clasa numita Factory care sa primeasca tipul enum si sa returneze obiectele in functie de enum
+ - Nu respecta Open-Closed, deoarece daca apare o alta clasac concreta, trebuie sa schimbam enum-ul si factory-ul
+
+ Exemplu:
+   În cadrul aplicației personalul spitalului este de mai multe tipuri. Acestea sunt salvate într-un
+   enum { Brancardier, Asistent, Medic}. Să se implementeze modulul care pune la dispoziției
+   crearea de obiecte din familia obiectelor PersonalSpital in funcție de tipul primit ca parametru

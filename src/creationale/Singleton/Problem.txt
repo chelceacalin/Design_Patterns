@@ -1,0 +1,12 @@
+Design patternul singleton il folosim cand vrem sa avem o singura instanta la nivelul aplicatiei.
+
+
+ Atribute:
+ - Constructor privat
+ - Instanta statica privata
+ - Functie statica publica care returneza aceeasi instanta de fiecare data
+
+ Exemplu:
+  Un exemplu foarte bun este legat de conexiunea la baza de date.
+  Nu vrem sa cream mai multe conexiuni catre baza de date din diferite parti ale aplicatiei.
+  De aceea, am vrea o instanta care este share-uita la nivelul aplicatiei. Design patternul Singleton vine in ajutorul tau, cu o structura ce nu permite crearea mai multor instante.
