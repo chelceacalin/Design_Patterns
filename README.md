@@ -15,7 +15,16 @@ Creational:
 -> Prototype
 
 Structural:
+-> Adapter
+-> Facade
+-> Proxy
+-> FlyWeight
+-> Composite
+-> Decorator
 
+
+Comportamental: 
+-> Strategy
 </pre>
 
 
