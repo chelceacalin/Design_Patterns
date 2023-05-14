@@ -1,4 +1,4 @@
-package facade.classes;
+package structurale.facade.classes;
 
 public class Facade {
    private Medic medic;

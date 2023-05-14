@@ -1,4 +1,6 @@
-package facade.classes;
+package structurale.facade.classes;
+
+import structurale.facade.classes.Pacient;
 
 import java.util.ArrayList;
 import java.util.List;

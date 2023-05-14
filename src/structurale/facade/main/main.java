@@ -1,6 +1,6 @@
-package facade.main;
+package structurale.facade.main;
 
-import facade.classes.Facade;
+import structurale.facade.classes.Facade;
 
 public class main {
     public static void main(String[] args) {
