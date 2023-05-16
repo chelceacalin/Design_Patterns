@@ -25,6 +25,9 @@ Structural:
 
 Comportamental: 
 -> Strategy
+-> Observer
+-> State
+-> Command
 </pre>
 
 
