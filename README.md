@@ -28,6 +28,9 @@ Comportamental:
 -> Observer
 -> State
 -> Command
+-> Chain
+-> Memento
+-> Template
 </pre>
 
 
